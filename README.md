@@ -1,11 +1,11 @@
-# Week 9 – Contamination Detection Practical
+# Week 9 - Contamination Detection Practical
 
 ## Objective
 The objective of this assignment was to identify possible contamination in public DNA WGS and RNA-seq datasets and evaluate the evidence using taxonomic classification and reference-based alignment.
 
 ## Datasets
-- DNA WGS: ERR17370123 – Ixodes scapularis
-- RNA-seq: SRR40293353 – Aedes aegypti
+- DNA WGS: ERR17370123 - Ixodes scapularis
+- RNA-seq: SRR40293353 - Aedes aegypti
 
 I analyzed the first 10,000 paired-end reads from each dataset.
 
