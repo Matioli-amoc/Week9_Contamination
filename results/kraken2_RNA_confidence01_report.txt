@@ -1,0 +1,155 @@
+ 97.70	7970	7970	U	0	unclassified
+  2.30	188	4	R	1	root
+  2.26	184	11	R1	131567	  cellular organisms
+  1.10	90	41	D	2	    Bacteria
+  0.43	35	6	P	1224	      Pseudomonadota
+  0.16	13	2	C	1236	        Gammaproteobacteria
+  0.07	6	0	O	135614	          Xanthomonadales
+  0.06	5	0	F	32033	            Xanthomonadaceae
+  0.06	5	0	G	40323	              Stenotrophomonas
+  0.06	5	0	G1	995085	                Stenotrophomonas maltophilia group
+  0.06	5	5	S	40324	                  Stenotrophomonas maltophilia
+  0.01	1	0	F	1775411	            Rhodanobacteraceae
+  0.01	1	0	G	231454	              Dyella
+  0.01	1	0	G1	2634549	                unclassified Dyella
+  0.01	1	1	S	3075430	                  Dyella sp. BiH032
+  0.02	2	0	O	135623	          Vibrionales
+  0.02	2	0	F	641	            Vibrionaceae
+  0.02	2	1	G	662	              Vibrio
+  0.01	1	0	G1	2614977	                unclassified Vibrio
+  0.01	1	1	S	2802577	                  Vibrio sp. SCSIO 43133
+  0.02	2	0	O	135624	          Aeromonadales
+  0.02	2	0	F	84642	            Aeromonadaceae
+  0.01	1	0	G	642	              Aeromonas
+  0.01	1	1	S	648	                Aeromonas caviae
+  0.01	1	0	G	43947	              Tolumonas
+  0.01	1	0	G1	263764	                environmental samples
+  0.01	1	1	S	263765	                  uncultured Tolumonas sp.
+  0.01	1	0	O	72274	          Pseudomonadales
+  0.01	1	0	F	135621	            Pseudomonadaceae
+  0.01	1	0	G	286	              Pseudomonas
+  0.01	1	1	G1	136849	                Pseudomonas syringae group
+  0.12	10	8	C	28211	        Alphaproteobacteria
+  0.01	1	0	O	204457	          Sphingomonadales
+  0.01	1	0	F	2844881	            Zymomonadaceae
+  0.01	1	0	G	541	              Zymomonas
+  0.01	1	0	S	542	                Zymomonas mobilis
+  0.01	1	0	S1	120044	                  Zymomonas mobilis subsp. pomaceae
+  0.01	1	1	S2	579138	                    Zymomonas mobilis subsp. pomaceae ATCC 29192
+  0.01	1	0	O	356	          Hyphomicrobiales
+  0.01	1	0	F	41294	            Nitrobacteraceae
+  0.01	1	1	G	374	              Bradyrhizobium
+  0.07	6	1	C	28216	        Betaproteobacteria
+  0.05	4	0	O	80840	          Burkholderiales
+  0.04	3	1	F	80864	            Comamonadaceae
+  0.01	1	0	G	34072	              Variovorax
+  0.01	1	0	G1	663243	                unclassified Variovorax
+  0.01	1	1	S	2681552	                  Variovorax sp. RKNM96
+  0.01	1	0	G	283	              Comamonas
+  0.01	1	1	S	3046670	                Comamonas resistens
+  0.01	1	0	F	75682	            Oxalobacteraceae
+  0.01	1	0	F1	2895353	              Telluria group
+  0.01	1	0	G	149698	                Massilia
+  0.01	1	0	G1	2609279	                  unclassified Massilia
+  0.01	1	1	S	3068633	                    Massilia sp. REN29
+  0.01	1	0	O	206351	          Neisseriales
+  0.01	1	0	F	481	            Neisseriaceae
+  0.01	1	0	G	482	              Neisseria
+  0.01	1	1	S	487	                Neisseria meningitidis
+  0.11	9	1	D1	1783272	      Terrabacteria group
+  0.09	7	0	P	201174	        Actinomycetota
+  0.09	7	0	C	1760	          Actinomycetes
+  0.02	2	0	O	85006	            Micrococcales
+  0.01	1	0	F	85023	              Microbacteriaceae
+  0.01	1	0	G	33882	                Microbacterium
+  0.01	1	1	S	904291	                  Microbacterium sediminis
+  0.01	1	0	F	1268	              Micrococcaceae
+  0.01	1	0	G	1742993	                Pseudarthrobacter
+  0.01	1	0	G1	2647000	                  unclassified Pseudarthrobacter
+  0.01	1	1	S	3018929	                    Pseudarthrobacter sp. MM222
+  0.02	2	0	O	85009	            Propionibacteriales
+  0.02	2	0	F	31957	              Propionibacteriaceae
+  0.02	2	2	G	1912216	                Cutibacterium
+  0.01	1	0	O	85007	            Mycobacteriales
+  0.01	1	0	F	1653	              Corynebacteriaceae
+  0.01	1	0	G	1716	                Corynebacterium
+  0.01	1	0	S	1727	                  Corynebacterium variabile
+  0.01	1	1	S1	858619	                    Corynebacterium variabile DSM 44702
+  0.01	1	0	O	85010	            Pseudonocardiales
+  0.01	1	0	F	2070	              Pseudonocardiaceae
+  0.01	1	1	G	1847	                Pseudonocardia
+  0.01	1	0	O	2039638	            Candidatus Nanopelagicales
+  0.01	1	0	F	2162846	              Candidatus Nanopelagicaceae
+  0.01	1	0	G	622681	                Planktophila
+  0.01	1	1	S	1884914	                  Candidatus Planktophila dulcis
+  0.01	1	0	P	1297	        Deinococcota
+  0.01	1	1	C	188787	          Deinococci
+  0.04	3	0	D1	1783270	      FCB group
+  0.04	3	0	D2	68336	        Bacteroidota/Chlorobiota group
+  0.04	3	0	P	976	          Bacteroidota
+  0.01	1	0	C	117743	            Flavobacteriia
+  0.01	1	0	O	200644	              Flavobacteriales
+  0.01	1	0	F	49546	                Flavobacteriaceae
+  0.01	1	0	G	52959	                  Polaribacter
+  0.01	1	1	G1	196858	                    unclassified Polaribacter
+  0.01	1	0	C	200643	            Bacteroidia
+  0.01	1	0	O	171549	              Bacteroidales
+  0.01	1	0	F	171550	                Rikenellaceae
+  0.01	1	0	G	1647173	                  Acetobacteroides
+  0.01	1	0	G1	1760810	                    environmental samples
+  0.01	1	1	S	1760811	                      uncultured Acetobacteroides sp.
+  0.01	1	0	C	768503	            Cytophagia
+  0.01	1	0	O	768507	              Cytophagales
+  0.01	1	0	F	1853232	                Hymenobacteraceae
+  0.01	1	0	G	89966	                  Hymenobacter
+  0.01	1	0	G1	2615202	                    unclassified Hymenobacter
+  0.01	1	1	S	2987688	                      Hymenobacter sp. YIM 151858-1
+  0.01	1	0	D1	1783257	      PVC group
+  0.01	1	0	P	203682	        Planctomycetota
+  0.01	1	0	C	203683	          Planctomycetia
+  0.01	1	0	O	2691354	            Pirellulales
+  0.01	1	0	F	2691357	              Pirellulaceae
+  0.01	1	0	G	2714594	                Bremerella
+  0.01	1	1	S	2527984	                  Bremerella volcania
+  0.01	1	0	P	200940	      Thermodesulfobacteriota
+  0.01	1	0	C	3031449	        Desulfovibrionia
+  0.01	1	0	O	213115	          Desulfovibrionales
+  0.01	1	0	F	194924	            Desulfovibrionaceae
+  0.01	1	0	G	872	              Desulfovibrio
+  0.01	1	1	S	876	                Desulfovibrio desulfuricans
+  1.02	83	0	D	2759	    Eukaryota
+  1.01	82	0	D1	33154	      Opisthokonta
+  1.01	82	0	K	33208	        Metazoa
+  1.01	82	0	K1	6072	          Eumetazoa
+  1.01	82	0	K2	33213	            Bilateria
+  1.01	82	0	K3	33511	              Deuterostomia
+  1.01	82	0	P	7711	                Chordata
+  1.01	82	0	P1	89593	                  Craniata
+  1.01	82	0	P2	7742	                    Vertebrata
+  1.01	82	0	P3	7776	                      Gnathostomata
+  1.01	82	0	P4	117570	                        Teleostomi
+  1.01	82	0	P5	117571	                          Euteleostomi
+  1.01	82	0	P6	8287	                            Sarcopterygii
+  1.01	82	0	P7	1338369	                              Dipnotetrapodomorpha
+  1.01	82	0	P8	32523	                                Tetrapoda
+  1.01	82	0	P9	32524	                                  Amniota
+  1.01	82	0	C	40674	                                    Mammalia
+  1.01	82	0	C1	32525	                                      Theria
+  1.01	82	0	C2	9347	                                        Eutheria
+  1.01	82	0	C3	1437010	                                          Boreoeutheria
+  1.01	82	0	C4	314146	                                            Euarchontoglires
+  1.01	82	0	O	9443	                                              Primates
+  1.01	82	0	O1	376913	                                                Haplorrhini
+  1.01	82	0	O2	314293	                                                  Simiiformes
+  1.01	82	0	O3	9526	                                                    Catarrhini
+  1.01	82	0	O4	314295	                                                      Hominoidea
+  1.01	82	0	F	9604	                                                        Hominidae
+  1.01	82	0	F1	207598	                                                          Homininae
+  1.01	82	0	G	9605	                                                            Homo
+  1.01	82	82	S	9606	                                                              Homo sapiens
+  0.01	1	0	D1	2611352	      Discoba
+  0.01	1	0	P	5752	        Heterolobosea
+  0.01	1	0	P1	2601529	          Tetramitia
+  0.01	1	0	P2	2601530	            Eutetramitia
+  0.01	1	0	F	5765	              Vahlkampfiidae
+  0.01	1	1	G	5761	                Naegleria

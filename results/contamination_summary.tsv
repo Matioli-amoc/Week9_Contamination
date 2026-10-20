@@ -1,0 +1,5 @@
+DatasetExpected_organismCandidateDetection_methodRead_fractionReference_breadthMean_depthInterpretation
+ERR17370123Ixodes scapularisRickettsia tamurae subsp. buchneriBowtie20.21%0.3793%0.003902Low-coverage signal; not confirmed
+SRR40293353Aedes aegyptiBacteria (multiple taxa)Kraken2 confidence 0.11.10%NANATaxonomic classification; not independently validated
+SRR40293353Aedes aegyptiHomo sapiensKraken2 confidence 0.11.01%NANA75 of 82 pairs also aligned to Aedes; origin unresolved
+SRR40293353Aedes aegyptiStenotrophomonas maltophiliaKraken2 confidence 0.10.061%NANAFive classified pairs; not validated against SM18 reference

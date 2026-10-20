@@ -1,0 +1,11 @@
+data/
+references/
+logs/
+results/*.sam
+results/*.bam
+results/*.bai
+results/fastqc/
+results/fastqc_trimmed/
+END_MODULE
+Overrepresented
+sed
